@@ -1,0 +1,4 @@
+#Tue Oct 27 11:28:53 BRT 2026
+base.0=C\:\\Users\\CASA\\Downloads\\LanHouseMaldita_etapa1\\LanHouseMaldita\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

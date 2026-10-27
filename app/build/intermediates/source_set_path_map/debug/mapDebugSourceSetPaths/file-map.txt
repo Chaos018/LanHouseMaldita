@@ -1,0 +1,8 @@
+com.lanhouse.maldita.app-pngs-0 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\generated\res\pngs\debug
+com.lanhouse.maldita.app-resValues-1 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\generated\res\resValues\debug
+com.lanhouse.maldita.app-updated_navigation_xml-2 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\generated\updated_navigation_xml\debug
+com.lanhouse.maldita.app-packageDebugResources-3 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.lanhouse.maldita.app-packageDebugResources-4 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.lanhouse.maldita.app-debug-5 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.lanhouse.maldita.app-debug-6 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\debug\res
+com.lanhouse.maldita.app-main-7 C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\res

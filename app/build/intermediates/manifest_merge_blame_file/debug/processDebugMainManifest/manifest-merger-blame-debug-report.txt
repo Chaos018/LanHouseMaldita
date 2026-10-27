@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lanhouse.maldita"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:4:5-19:19
+12        android:allowBackup="false"
+12-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:5:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Lan House Maldita"
+15-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:6:9-42
+16        android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" >
+16-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:7:9-82
+17        <activity
+17-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:9:9-18:20
+18            android:name="com.lanhouse.maldita.MainActivity"
+18-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:10:13-41
+19            android:configChanges="orientation|screenSize|keyboardHidden"
+19-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:11:13-74
+20            android:exported="true"
+20-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:12:13-36
+21            android:screenOrientation="sensorLandscape" >
+21-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:13:13-56
+22            <intent-filter>
+22-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:14:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:16:17-77
+25-->C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

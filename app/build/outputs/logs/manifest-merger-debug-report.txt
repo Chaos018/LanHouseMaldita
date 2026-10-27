@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:4:5-19:19
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:4:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:6:9-42
+	android:allowBackup
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:7:9-82
+activity#com.lanhouse.maldita.MainActivity
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:9:9-18:20
+	android:screenOrientation
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:13:13-56
+	android:exported
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:11:13-74
+	android:name
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\CASA\Downloads\LanHouseMaldita_etapa1\LanHouseMaldita\app\src\main\AndroidManifest.xml
